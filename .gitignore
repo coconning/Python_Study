@@ -1,0 +1,5 @@
+# 테스트 폴더
+/test
+
+# ipynb_checkpoints push 
+.ipynb_checkpoints
